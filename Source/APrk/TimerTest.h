@@ -3,8 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
 #include "Components/TextRenderComponent.h"
+#include "GameFramework/Actor.h"
 #include "TimerTest.generated.h"
 
 

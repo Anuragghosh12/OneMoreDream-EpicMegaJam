@@ -13,5 +13,10 @@ UCLASS()
 class APRK_API AAPrkCustomGameMode : public AAPrkGameMode
 {
 	GENERATED_BODY()
+public:
+	
+protected:
+
+private:
 	
 };
