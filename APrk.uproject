@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D2B6B3BA-453E-F1DB-66E9-39907159C3F0}",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -10,7 +10,8 @@
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Paper2D",
-				"Engine"
+				"Engine",
+				"AIModule"
 			]
 		}
 	],
