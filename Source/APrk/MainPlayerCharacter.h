@@ -44,9 +44,9 @@ protected:
 	FTimerHandle FootstepTimerHandle;
 
 private:
-	UPROPERTY(VisibleAnywhere,BlueprintReadOnly, meta=(AllowPrivateAccess="true"),Category="MainPlayer|Components")
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, meta=(AllowPrivateAccess="true"),Category="MainPlayer|Components")
 	TObjectPtr<USpringArmComponent> SpringArm;
-	UPROPERTY(VisibleAnywhere,BlueprintReadOnly, meta=(AllowPrivateAccess="true"),Category="MainPlayer|Components")
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, meta=(AllowPrivateAccess="true"),Category="MainPlayer|Components")
 	TObjectPtr<UCameraComponent> Camera;
 	
 };
