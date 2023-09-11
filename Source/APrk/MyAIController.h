@@ -13,5 +13,9 @@ UCLASS()
 class APRK_API AMyAIController : public AAIController
 {
 	GENERATED_BODY()
+	AMyAIController();
+
+private:
+	void Tick(float DeltaSeconds) override;
 	
 };

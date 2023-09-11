@@ -3,3 +3,12 @@
 
 #include "MyAIController.h"
 
+AMyAIController::AMyAIController()
+{
+	PrimaryActorTick.bCanEverTick=false;
+}
+
+void AMyAIController::Tick(float DeltaSeconds)
+{
+	Super::Tick(DeltaSeconds);
+}
