@@ -36,4 +36,4 @@ Storage: Minimum 5GB of free space (SSD preferred)
 + Updated Readme
 
 ## Copyright Notice:
-The artwork and assets used in this game have been acuried under CC commons and fair-use policy. The art belongs to their respective owner and in no way is being used for monetary gains or business practices. The project is just a proof of concept and will not be used for financial gains. The game does not seek to hurt any individual or corporation and is purely a work of fiction.
+The artwork and assets used in this game have been acquired under CC commons and fair-use policy. The art belongs to their respective owner and in no way is being used for monetary gains or business practices. The project is just a proof of concept and will not be used for financial gains. The game does not seek to hurt any individual or corporation and is purely a work of fiction.
